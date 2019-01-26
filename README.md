@@ -1,5 +1,5 @@
-# akellibotbeta
-This is a beta bot.
+# Akelli BETA
+This is a beta discord bot.
 Primary use: Testing Only
 Founded by: MarkFuljhari
 Lead Dev: MarkFuljhari
