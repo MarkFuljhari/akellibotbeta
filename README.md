@@ -7,4 +7,4 @@ With help by TheBestGamerYT
 
 TOS: All subjects of matter are protected by US law and all of the citizens are obiligated to obey it.
 
-#Copyright Akelli Company 2019
+# Copyright Akelli Company 2019
